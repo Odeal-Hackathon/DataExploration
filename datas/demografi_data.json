@@ -1,0 +1,1490 @@
+{
+    "Samsun/Ilkadim": {
+        "YASLI/GENC ORANI": {
+            "Genc": 50.0,
+            "Orta": 21.0,
+            "Yasli": 29.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadin": 49.0,
+            "Erkek": 51.0
+        },
+        "YASA GORE NUFUS DAGILIMI": {
+            "0-4": 451,
+            "5-9": 597,
+            "10-14": 497,
+            "15-19": 576,
+            "20-24": 552,
+            "25-29": 627,
+            "30-34": 621,
+            "35-39": 500,
+            "40-44": 576,
+            "45-49": 595,
+            "50-54": 595,
+            "55-59": 595,
+            "60-64": 595,
+            "65+": 1165
+        },
+        "MEDENI HAL": {
+            "Evli": 3910,
+            "Bekar": 1830,
+            "Bosanmis": 520,
+            "Eşi Ölmüş": 572
+        },
+        "EVLILIK ORANI": {
+            "Evli": 37.0,
+            "Bekar": 22.65,
+            "Bosanmis": 47.88,
+            "Eşi Ölmüş": 67.0
+        },
+        "EĞITIM DÜZEYI": {
+            "Bilinmiyor": 86,
+            "Okuryazar Değil": 159,
+            "Okuryazar": 543,
+            "İlkokul": 1858,
+            "Ortaokul": 1243,
+            "İlköğretim": 551,
+            "Lise": 2011,
+            "Lisans": 1140,
+            "Yüksek Lisans": 76
+        },
+        "EĞITIM ORANI": {
+            "Üniversite ve Üstü": 10.0,
+            "İlk, Orta, Lise": 16.0,
+            "Diğer": 72.0
+        }
+    },
+    "Istanbul/Beşiktaş": {
+        "YAŞLI/GENÇ ORANI": {
+            "Genç": 19.0,
+            "Orta": 22.0,
+            "Yaşlı": 59.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadın": 46.0,
+            "Erkek": 54.0
+        },
+        "YAŞA GÖRE NÜFUS DAĞILIMI": {
+            "0-4": 75,
+            "5-9": 82,
+            "10-14": 119,
+            "15-19": 150,
+            "20-24": 198,
+            "25-29": 425,
+            "30-34": 536,
+            "35-39": 515,
+            "40-44": 295,
+            "45-49": 312,
+            "50-54": 312,
+            "55-59": 287,
+            "60-64": 577,
+            "65+": 512
+        },
+        "MEDENİ HAL": {
+            "Evli": 1416,
+            "Bekar": 1457,
+            "Boşanmış": 577,
+            "Eşi Ölmüş": 165
+        },
+        "EVLİLİK ORANI": {
+            "Evli": 10.32,
+            "Bekar": 31.38,
+            "Boşanmış": 45.92,
+            "Eşi Ölmüş": 12.38
+        },
+        "EĞİTİM DÜZEYİ": {
+            "Bilinmiyor": 60,
+            "Okuryazar Değil": 92,
+            "Okuryazar": 105,
+            "İlkokul": 493,
+            "Ortaokul": 382,
+            "İlköğretim": 152,
+            "Lise": 855,
+            "Lisans": 1247,
+            "Yüksek Lisans": 283,
+            "Doktora": 66
+        },
+        "EĞİTİM ORANI": {
+            "Üniversite ve Üstü": 6.0,
+            "İlk, Orta, Lise": 44.0,
+            "Diğer": 51.0
+        }
+    },
+    "Istanbul/Bayrampaşa": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 65.0,
+            "Orta": 4.0,
+            "Yaşlı": 31.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 52.0,
+            "Erkek": 48.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 762.0,
+            "5-9": 900.0,
+            "10-14": 950.0,
+            "15-19": 953.0,
+            "20-24": 1295.0,
+            "25-29": 1414.0,
+            "30-34": 1292.0,
+            "35-39": 1155.0,
+            "40-44": 1035.0,
+            "45-49": 962.0,
+            "50-54": 858.0,
+            "55-59": 712.0,
+            "60-64": 486.0,
+            "65+": 426.0
+        },
+        "Medeni Hal": {
+            "Evli": 7778.0,
+            "Bekar": 4165.0,
+            "Boşanmış": 695.0,
+            "Eşi Ölmüş": 172.0
+        },
+        "Evlilik Oranı": {
+            "Evli": 27.45,
+            "Bekar": 46.96,
+            "Boşanmış": "N/A",
+            "Eşi Ölmüş": "N/A"
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 92.0,
+            "Okuryazar Değil": 207.0,
+            "Okuryazar Fakat Eğitimsiz": 918.0,
+            "İlkokul": 3182.0,
+            "Ortaokul": 2492.0,
+            "İlköğretim": 387.0,
+            "Lise": 2087.0,
+            "Lisans": 2000.0,
+            "Yüksek Lisans": 103.0
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 10.0,
+            "İlk, Orta, Lise": 16.0,
+            "Diğer": 73.0
+        }
+    },
+    "Istanbul/Ümraniye": {
+        "YAŞLI/GENÇ ORANI": {
+            "Genc": 95.5,
+            "Orta": 35.0,
+            "Yasli": 10.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadin": 48.0,
+            "Erkek": 52.0
+        },
+        "YASA GORE NUFUS DAGILIMI": {
+            "0-4": 972,
+            "5-9": 702,
+            "10-14": 1082,
+            "15-19": 1111,
+            "20-24": 1385,
+            "25-29": 1445,
+            "30-34": 1450,
+            "35-39": 1293,
+            "40-44": 1238,
+            "45-49": 1075,
+            "50-54": 780,
+            "55-59": 590,
+            "60-64": 545,
+            "65+": 1074
+        },
+        "MEDENI HAL": {
+            "Evli": 7687,
+            "Bekar": 4242,
+            "Bosanmis": 687,
+            "Eşi Ölmüş": 545
+        },
+        "EVLILIK ORANI": {
+            "Evli": 26.41,
+            "Bekar": 47.21,
+            "Bosanmis": 0,
+            "Eşi Ölmüş": 0
+        },
+        "EĞITIM DÜZEYI": {
+            "Bilinmiyor": 0,
+            "Okuryazar Değil": 286,
+            "Okuryazar": 2643,
+            "İlkokul": 1834,
+            "Ortaokul": 283,
+            "İlköğretim": "N/A",
+            "Lise": 4219,
+            "Lisans": 3041,
+            "Yüksek Lisans": 122,
+            "Doktora": 67
+        },
+        "EĞITIM ORANI": {
+            "Üniversite ve Üstü": 9.0,
+            "İlk, Orta, Lise": 25.0,
+            "Diğer": 66.0
+        }
+    },
+    "Manisa/Soma": {
+        "YAŞLI/GENÇ ORANI": {
+            "Genç": 16.0,
+            "Orta": 31.0,
+            "Yaşlı": 53.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadın": 49.0,
+            "Erkek": 51.0
+        },
+        "YAŞA GÖRE NÜFUS DAĞILIMI": {
+            "0-4": 690,
+            "5-9": 832,
+            "10-14": 559,
+            "15-19": 648,
+            "20-24": 671,
+            "25-29": 726,
+            "30-34": 851,
+            "35-39": 716,
+            "40-44": 573,
+            "45-49": 525,
+            "50-54": 625,
+            "55-59": 670,
+            "60-64": 1200,
+            "65+": 1470
+        },
+        "MEDENİ HAL": {
+            "Evli": 5116,
+            "Bekar": 3493,
+            "Boşanmış": 482,
+            "Eşi Ölmüş": 565
+        },
+        "EVLİLİK ORANI": {
+            "Evli": 17.35,
+            "Bekar": 53.05,
+            "Boşanmış": 5.4,
+            "Eşi Ölmüş": 4.2
+        },
+        "EĞİTİM DÜZEYİ": {
+            "Bilinmiyor": 23,
+            "Okuryazar Değil": 58,
+            "Okuryazar": 69,
+            "İlkokul": 2065,
+            "Ortaokul": 1548,
+            "İlköğretim": 641,
+            "Lise": 884,
+            "Lisans": 2178,
+            "Yüksek Lisans": 170
+        },
+        "EĞİTİM ORANI": {
+            "Üniversite ve Üstü": 7.0,
+            "İlk, Orta, Lise": 21.0,
+            "Diğer": 71.0
+        }
+    },
+    "Izmir/Buca": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 20.0,
+            "Orta": 53.0,
+            "Yaşlı": 27.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 48.0,
+            "Erkek": 52.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 824.0,
+            "5-9": 910.0,
+            "10-14": 770.0,
+            "15-19": 682.0,
+            "20-24": 852.0,
+            "25-29": 926.0,
+            "30-34": 1192.0,
+            "35-39": 1457.0,
+            "40-44": 915.0,
+            "45-49": 912.0,
+            "50-54": 812.0,
+            "55-59": 811.0,
+            "60-64": 788.0,
+            "65+": 1882.0
+        },
+        "Medeni Hal": {
+            "Evli": 6857.0,
+            "Bekar": 3605.0,
+            "Boşanmış": 1465.0,
+            "Eşi Ölmüş": 683.0
+        },
+        "Evliilik Oranı": {
+            "Evli": 67.83,
+            "Bekar": 22.99,
+            "Boşanmış": 9.16,
+            "Eşi Ölmüş": "N/A"
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 71.0,
+            "Okuryazar Değil": 105.0,
+            "Okuryazar": 315.0,
+            "İlkokul": 2876.0,
+            "Ortaokul": 1172.0,
+            "İlköğretim": "N/A",
+            "Lise": 3541.0,
+            "Lisans": 3255.0,
+            "Yüksek Lisans": 394.0,
+            "Doktora": 62.0
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 7.0,
+            "İlk, Orta, Lise": 64.0,
+            "Diğer": 29.0
+        }
+    },
+    "Aksaray/Ortaköy": {
+        "YAŞLI/GENÇ ORANI": {
+            "Genç": 949.0,
+            "Orta": 940.0,
+            "Yaşlı": 911.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadın": 957.0,
+            "Erkek": 943.0
+        },
+        "YAŞA GÖRE NÜFUS DAĞILIMI": {
+            "0-4": 125,
+            "5-9": 105,
+            "10-14": 90,
+            "15-19": 96,
+            "20-24": 247,
+            "25-29": 269,
+            "30-34": 127,
+            "35-39": 113,
+            "40-44": 92,
+            "45-49": 79,
+            "50-54": 73,
+            "55-59": 65,
+            "60-64": 64,
+            "65+": 141
+        },
+        "MEDENI HAL": {
+            "Evli": 822,
+            "Bekar": 59,
+            "Boşanmış": 51,
+            "Eşi Ölmüş": 63
+        },
+        "EVLİLİK ORANI": {
+            "Evli": 28.27,
+            "Bekar": 45.32,
+            "Boşanmış": 3.42,
+            "Eşi Ölmüş": 2.99
+        },
+        "EĞİTİM DÜZEYİ": {
+            "Bilinmiyor": 42,
+            "Okuryazar Değil": 177,
+            "Okuryazar": 256,
+            "İlkokul": 270,
+            "Ortaokul": 255,
+            "Lise": 319,
+            "Lisans": 313,
+            "Yüksek Lisans": 83
+        },
+        "EĞİTİM ORANI": {
+            "Üniversite ve Üstü": 13.0,
+            "İlk, Orta, Lise": 24.0,
+            "Diğer": 63.0
+        }
+    },
+    "Izmir/Bornova": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 50.0,
+            "Orta": 36.0,
+            "Yaşlı": 14.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 39.0,
+            "Erkek": 61.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 1871,
+            "5-9": 1862,
+            "10-14": 1853,
+            "15-19": 4177,
+            "20-24": 4650,
+            "25-29": 4658,
+            "30-34": 3501,
+            "35-39": 2455,
+            "40-44": 2355,
+            "45-49": 2270,
+            "50-54": 2185,
+            "55-59": 1857,
+            "60-64": 1657,
+            "65+": 3827
+        },
+        "Medeni Hal": {
+            "Evli": 14902,
+            "Bekar": 4357,
+            "Boşanmış": 951,
+            "Eşi Ölmüş": 280
+        },
+        "Evlilik Oranı": {
+            "Evli": 40.79,
+            "Bekar": 40.08,
+            "Boşanmış": "%",
+            "Eşi Ölmüş": "%"
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 150,
+            "Okuryazar Değil": 180,
+            "Okuryazar": 1358,
+            "İlkokul": 899,
+            "Ortaokul": 2042,
+            "Köy/Gece Eğitimi": 515,
+            "Lise": 3110,
+            "Lisans": 1233,
+            "Yüksek Lisans": 284,
+            "Doktora": 60
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 50.0,
+            "İlk, Orta, Lise": 46.0,
+            "Diğer": 4.0
+        }
+    },
+    "Antalya/Kepez": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 68.0,
+            "Orta": 25.2,
+            "Yaşlı": 64.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 50.0,
+            "Erkek": 50.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 1780,
+            "5-9": 2145,
+            "10-14": 1881,
+            "15-19": 1468,
+            "20-24": 1782,
+            "25-29": 1920,
+            "30-34": 2111,
+            "35-39": 2047,
+            "40-44": 1483,
+            "45-49": 1415,
+            "50-54": 985,
+            "55-59": 875,
+            "60-64": 678,
+            "65+": 1041
+        },
+        "Medeni Hal": {
+            "Evli": 10028,
+            "Bekar": 4412,
+            "Boşanmış": 1136,
+            "Eşi Ölmüş": 328
+        },
+        "Evlilik Oranı": {
+            "Evli": 18.84,
+            "Bekar": 94.7,
+            "Boşanmış": 4.7,
+            "Eşi Ölmüş": 4.7
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 128,
+            "Okuryazar Değil": 2074,
+            "Okuryazar": 361,
+            "İlkokul": 3938,
+            "Ortaokul": 3634,
+            "Köy/Gece Eğitimi": 475,
+            "Lise": 1919,
+            "Lisans": 193,
+            "Yüksek Lisans": 68,
+            "Doktora": 18
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 14.0,
+            "İlk, Orta, Lise": 10.0,
+            "Diğer": 77.0
+        }
+    },
+    "Istanbul/Bahçelievler": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 18.0,
+            "Orta": 51.0,
+            "Yaşlı": 31.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 47.0,
+            "Erkek": 53.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 1085,
+            "5-9": 4747,
+            "10-14": 3924,
+            "15-19": 3522,
+            "20-24": 3638,
+            "25-29": 3833,
+            "30-34": 4128,
+            "35-39": 5390,
+            "40-44": 4818,
+            "45-49": 4243,
+            "50-54": 3724,
+            "55-59": 3618,
+            "60-64": 2742,
+            "65+": 7272
+        },
+        "Medeni Hal": {
+            "Evli": 28109,
+            "Bekar": 18935,
+            "Boşanmış": 3227,
+            "Eşi Ölmüş": 2676
+        },
+        "Evlilik Oranı": {
+            "Evli": 23.44,
+            "Bekar": 46.94,
+            "Boşanmış": "N/A",
+            "Eşi Ölmüş": "N/A"
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 82,
+            "Okuryazar Değil": 2428,
+            "Okuryazar": 8055,
+            "İlkokul": 6514,
+            "Ortaokul": 3613,
+            "Köy/Gece Eğitimi": 878,
+            "Lise": 13670,
+            "Lisans": 3434,
+            "Yüksek Lisans": 165,
+            "Doktora": 45
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 10.0,
+            "İlk, Orta, Lise": 36.0,
+            "Diğer": 54.0
+        }
+    },
+    "Istanbul/Kartal": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 56.0,
+            "Orta": 20.0,
+            "Yaşlı": 25.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 48.0,
+            "Erkek": 52.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 822,
+            "5-9": 755,
+            "10-14": 713,
+            "15-19": 682,
+            "20-24": 1029,
+            "25-29": 1183,
+            "30-34": 1255,
+            "35-39": 1453,
+            "40-44": 1463,
+            "45-49": 1053,
+            "50-54": 810,
+            "55-59": 699,
+            "60-64": 665,
+            "65+": 1505
+        },
+        "Medeni Hal": {
+            "Evli": 6422,
+            "Bekar": 3250,
+            "Boşanmış": 1222,
+            "Eşi Ölmüş": 636
+        },
+        "Evlilik Oranı": {
+            "Evli": 46.22,
+            "Bekar": 24.53,
+            "Boşanmış": 9.61,
+            "Eşi Ölmüş": 9.0
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 272,
+            "Okuryazar Değil": 82,
+            "Okuryazar": 353,
+            "İlkokul": 1442,
+            "Ortaokul": 115,
+            "İlköğretim": 198,
+            "Lise": 3122,
+            "Lisans": 3815,
+            "Yüksek Lisans": 722,
+            "Doktora": 198
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 9.0,
+            "İlk, Orta, Lise": 51.0,
+            "Diğer": 40.0
+        }
+    },
+    "Bursa/Osmangazi": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 52.0,
+            "Orta": 29.0,
+            "Yaşlı": 19.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 52.0,
+            "Erkek": 48.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 28,
+            "5-9": 32,
+            "10-14": 44,
+            "15-19": 57,
+            "20-24": 63,
+            "25-29": 88,
+            "30-34": 72,
+            "35-39": 42,
+            "40-44": 53,
+            "45-49": 79,
+            "50-54": 77,
+            "55-59": 62,
+            "60-64": 65,
+            "65+": 103
+        },
+        "Medeni Hal": {
+            "Evli": 390,
+            "Bekar": 241,
+            "Boşanmış": 53,
+            "Eşi Ölmüş": 33
+        },
+        "Evlilik Oranı": {
+            "Evli": 67.31,
+            "Bekar": 27.39,
+            "Boşanmış": 4.61,
+            "Eşi Ölmüş": 0.67
+        },
+        "Eğitim Düzeyi": {
+            "Okuryazar Eğitimsiz": 46,
+            "İlkokul": 208,
+            "Ortaokul": 174,
+            "İlköğretim": 74,
+            "Lise": 135,
+            "Lisans": 68
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 20.0,
+            "İlk, Orta, Lise": 61.0,
+            "Diğer": 19.0
+        }
+    },
+    "Istanbul/Kağithane": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 36.0,
+            "Orta": 56.0,
+            "Yaşlı": 8.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 49.0,
+            "Erkek": 51.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 2047,
+            "5-9": 2455,
+            "10-14": 2417,
+            "15-19": 2124,
+            "20-24": 2833,
+            "25-29": 3070,
+            "30-34": 3246,
+            "35-39": 3157,
+            "40-44": 3104,
+            "45-49": 2625,
+            "50-54": 2441,
+            "55-59": 1683,
+            "60-64": 1405,
+            "65+": 1765
+        },
+        "Medeni Hal": {
+            "Evli": 15834,
+            "Bekar": 9192,
+            "Boşanmış": 1430,
+            "Eşi Ölmüş": 505
+        },
+        "Evlilik Oranı": {
+            "Evli": 28.12,
+            "Bekar": 45.57,
+            "Boşanmış": 2.12,
+            "Eşi Ölmüş": 0.75
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 291,
+            "Okuryazar Değil": 246,
+            "Okuryazar Eğitimsiz": 562,
+            "İlkokul": 4833,
+            "Ortaokul": 4182,
+            "İlköğretim": 7482,
+            "Lise": 7495,
+            "Lisans": 3188,
+            "Yüksek Lisans": 912,
+            "Doktora": 65
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 10.0,
+            "İlk, Orta, Lise": 65.0,
+            "Diğer": 25.0
+        }
+    },
+    "Istanbul/Fatih ": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 49.0,
+            "Orta": 35.0,
+            "Yaşlı": 16.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 50.0,
+            "Erkek": 50.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 612,
+            "5-9": 622,
+            "10-14": 682,
+            "15-19": 765,
+            "20-24": 838,
+            "25-29": 834,
+            "30-34": 765,
+            "35-39": 715,
+            "40-44": 675,
+            "45-49": 688,
+            "50-54": 648,
+            "55-59": 803,
+            "60-64": 719,
+            "65+": 1149
+        },
+        "Medeni Hal": {
+            "Evli": 4084,
+            "Bekar": 3030,
+            "Boşanmış": 483,
+            "Eşi Ölmüş": 524
+        },
+        "Evlilik Oranı": {
+            "Evli": 30.85,
+            "Bekar": 41.29,
+            "Boşanmış": null,
+            "Eşi Ölmüş": null
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 258,
+            "Okuryazar Değil": 175,
+            "Okuryazar": 530,
+            "İlkokul": 765,
+            "Ortaokul": 2011,
+            "Lise": 1575,
+            "Lisans": 217,
+            "Yüksek Lisans": 94,
+            "Doktora": 40
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 12.0,
+            "İlk, Orta, Lise": 20.0,
+            "Diğer": 67.0
+        }
+    },
+    "Kocaeli/Derince": {
+        "YASLI/GENC ORANI": {
+            "Genç": 52.0,
+            "Orta": 34.0,
+            "Yaşlı": 14.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadın": 50.0,
+            "Erkek": 50.0
+        },
+        "YASA GORE NÜFUS DAĞILIMI": {
+            "0-4": 1676.0,
+            "5-9": 1790.0,
+            "10-14": 1834.0,
+            "15-19": 1355.0,
+            "20-24": 1496.0,
+            "25-29": 1274.0,
+            "30-34": 1385.0,
+            "35-39": 1390.0,
+            "40-44": 1135.0,
+            "45-49": 978.0,
+            "50-54": 922.0,
+            "55-59": 782.0,
+            "60-64": 686.0,
+            "65+": 1605.0
+        },
+        "MEDENI HAL": {
+            "Evli": 8182.0,
+            "Bekar": 3287.0,
+            "Boşanmış": 676.0,
+            "Eşi Ölmüş": 859.0
+        },
+        "EVLILIK ORANI": {
+            "Evli": 21.93,
+            "Bekar": 48.66
+        },
+        "EĞITIM DÜZEYI": {
+            "Bilinmiyor": 212.0,
+            "Okuryazar Değil": 367.0,
+            "Okuryazar": 255.0,
+            "İlkokul": 3316.0,
+            "Ortaokul": 2882.0,
+            "Yüksekokul": 1474.0,
+            "Lise": 3816.0,
+            "Lisans": 1922.0,
+            "Yüksek Lisans": 141.0
+        },
+        "EĞITIM ORANI": {
+            "Üniversite ve Üstü": 11.0,
+            "İlk, Orta, Lise": 14.0,
+            "Diğer": 75.0
+        }
+    },
+    "Istanbul/Küçükçekmece": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 55.0,
+            "Orta": 34.0,
+            "Yaşlı": 11.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 50.0,
+            "Erkek": 50.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 2116,
+            "5-9": 2457,
+            "10-14": 2518,
+            "15-19": 2449,
+            "20-24": 2688,
+            "25-29": 3189,
+            "30-34": 3686,
+            "35-39": 3388,
+            "40-44": 3003,
+            "45-49": 2465,
+            "50-54": 1910,
+            "55-59": 1410,
+            "60-64": 2097,
+            "65+": 2597
+        },
+        "Medeni Hal": {
+            "Evli": 17519,
+            "Bekar": 9090,
+            "Boşanmış": 1512,
+            "Eşi Ölmüş": 1259
+        },
+        "Evlilik Oranı": {
+            "Evli": 24.87,
+            "Bekar": 47.89,
+            "Boşanmış": "",
+            "Eşi Ölmüş": ""
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 934,
+            "Okur Yazar Değil": 858,
+            "Okuryazar": 2613,
+            "İlkokul": 3889,
+            "Ortaokul": 5161,
+            "İlköğretim": 2938,
+            "Lise": 3900,
+            "Lisans": 5176,
+            "Yüksek Lisans": 1417,
+            "Doktora": 145
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 11.0,
+            "İlk, Orta, Lise": 17.0,
+            "Diğer": 71.0
+        }
+    },
+    "Samsun/Canik": {
+        "YAŞLI/GENÇ ORANI": {
+            "Genç": 61.0,
+            "Orta": 12.0,
+            "Yaşlı": 27.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadın": 51.0,
+            "Erkek": 49.0
+        },
+        "YASA GÖRE NÜFÜS DAĞILIMI": {
+            "0-4": 56.0,
+            "5-9": 32.0,
+            "10-14": 40.0,
+            "15-19": 51.0,
+            "20-24": 106.0,
+            "25-29": 64.0,
+            "30-34": 68.0,
+            "35-39": 61.0,
+            "40-44": 57.0,
+            "45-49": 48.0,
+            "50-54": 37.0,
+            "55-59": 52.0,
+            "60-64": 37.0,
+            "65+": 52.0
+        },
+        "MEDENI HAL": {
+            "Evli": 343.0,
+            "Bekar": 187.0,
+            "Boşanmış": 55.0,
+            "Eşi Ölmüş": 23.0
+        },
+        "EVLILIK ORANI": {
+            "Evli": 48.54,
+            "Bekar": 26.08,
+            "Boşanmış": 7.81,
+            "Eşi Ölmüş": 17.76
+        },
+        "EĞITIM DÜZEYI": {
+            "Okuryazar Eğitimsiz": 107.0,
+            "İlkokul": 83.0,
+            "Ortaokul": 53.0,
+            "İlköğretim": 55.0,
+            "Lise": 140.0,
+            "Lisans": 120.0
+        },
+        "EĞITIM ORANI": {
+            "Üniversite ve Üstü": 7.0,
+            "İlk, Orta, Lise": 22.0,
+            "Diğer": 71.0
+        }
+    },
+    "Ankara/Elmadağ": {
+        "Yaş Grupları": {
+            "Genç": 14.0,
+            "Orta": 54.0,
+            "Yaşlı": 32.0
+        },
+        "Cinsiyet Dağılımı": {
+            "Kadın": 51.0,
+            "Erkek": 49.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 256.0,
+            "5-9": 235.0,
+            "10-14": 219.0,
+            "15-19": 252.0,
+            "20-24": 256.0,
+            "25-29": 295.0,
+            "30-34": 314.0,
+            "35-39": 315.0,
+            "40-44": 313.0,
+            "45-49": 278.0,
+            "50-54": 280.0,
+            "55-59": 216.0,
+            "60-64": 206.0,
+            "65+": 329.0
+        },
+        "Medeni Hal": {
+            "Evli": 2025.0,
+            "Bekar": 729.0,
+            "Boşanmış": 161.0,
+            "Eşi Ölmüş": 112.0
+        },
+        "Evlilik Oranı": {
+            "Evli": 19.87,
+            "Bekar": 52.33,
+            "Boşanmış": 7.62,
+            "Eşi Ölmüş": 20.18
+        },
+        "Eğitim Seviyesi": {
+            "Bilinmiyor": 16.0,
+            "Okuryazar Değil": 25.0,
+            "Okuryazar": 53.0,
+            "İlkokul": 215.0,
+            "Ortaokul": 572.0,
+            "İlköğretim": 122.0,
+            "Lise": 1183.0,
+            "Lisans": 712.0,
+            "Yüksek Lisans": 112.0
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 7.0,
+            "İlk, Orta, Lise": 23.0,
+            "Diğer": 70.0
+        }
+    },
+    "Istanbul/Ataşehir": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 55.0,
+            "Orta": 33.0,
+            "Yaşlı": 12.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 49.0,
+            "Erkek": 51.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 2182.0,
+            "5-9": 2243.0,
+            "10-14": 2688.0,
+            "15-19": 2367.0,
+            "20-24": 1952.0,
+            "25-29": 2505.0,
+            "30-34": 2659.0,
+            "35-39": 3672.0,
+            "40-44": 3327.0,
+            "45-49": 2617.0,
+            "50-54": 1884.0,
+            "55-59": 1424.0,
+            "60-64": 2338.0,
+            "65+": 2236.0
+        },
+        "Medeni Hal": {
+            "Evli": 15429.0,
+            "Bekar": 7548.0,
+            "Boşanmış": 1812.0,
+            "Eşi Ölmüş": 887.0
+        },
+        "Evlilik Oranı": {
+            "Evli": 23.79,
+            "Bekar": 47.97,
+            "Boşanmış": "",
+            "Eşi Ölmüş": ""
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 429.0,
+            "Okuryazar Değil": 385.0,
+            "Okuryazar": 2455.0,
+            "İlkokul": 4207.0,
+            "Ortaokul": 3822.0,
+            "Lise": 4025.0,
+            "Üniversite (Lisans)": 8442.0,
+            "Yüksek Lisans": 2821.0,
+            "Doktora": 712.0
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 10.0,
+            "İlk, Orta, Lise": 48.0,
+            "Diğer": 41.0
+        }
+    },
+    "Istanbul/Sancaktepe": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 56.0,
+            "Orta": 8.0,
+            "Yaşlı": 36.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 50.0,
+            "Erkek": 50.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 1685.0,
+            "5-9": 2245.0,
+            "10-14": 2068.0,
+            "15-19": 1810.0,
+            "20-24": 1967.0,
+            "25-29": 2168.0,
+            "30-34": 2517.0,
+            "35-39": 2309.0,
+            "40-44": 2122.0,
+            "45-49": 1783.0,
+            "50-54": 1321.0,
+            "55-59": 685.0,
+            "60-64": 492.0,
+            "65+": 421.0
+        },
+        "Medeni Hal": {
+            "Evli": 13176.0,
+            "Bekar": 8167.0,
+            "Boşanmış": 1458.0,
+            "Eşi Ölmüş": 865.0
+        },
+        "Evlilik Oranı": {
+            "Evli": 22.58,
+            "Bekar": 48.24,
+            "Boşanmış": "N/A",
+            "Eşi Ölmüş": "N/A"
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 188.0,
+            "Okuryazar Değil": 409.0,
+            "Okuryazar": 2202.0,
+            "İlkokul": 4612.0,
+            "Ortaokul": 1354.0,
+            "İlköğretim": 575.0,
+            "Lise": 4955.0,
+            "Lisans": 1943.0,
+            "Yüksek Lisans": 519.0,
+            "Doktora": 61.0
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 12.0,
+            "İlk, Orta, Lise": 23.0,
+            "Diğer": 65.0
+        }
+    },
+    "Istanbul/Şişli": {
+        "Yaşlı/Genç Oranı": {
+            "Genç": 23.0,
+            "Orta": 57.0,
+            "Yaşlı": 20.0
+        },
+        "Kadın/Erkek Oranı": {
+            "Kadın": 46.0,
+            "Erkek": 54.0
+        },
+        "Yaşa Göre Nüfus Dağılımı": {
+            "0-4": 638,
+            "5-9": 442,
+            "10-14": 452,
+            "15-19": 536,
+            "20-24": 768,
+            "25-29": 965,
+            "30-34": 1215,
+            "35-39": 1427,
+            "40-44": 1077,
+            "45-49": 1025,
+            "50-54": 897,
+            "55-59": 647,
+            "60-64": 545,
+            "65+": 2.265
+        },
+        "Medeni Hal": {
+            "Evli": 5898,
+            "Bekar": 4345,
+            "Boşanmış": 1413,
+            "Eşi Ölmüş": 784
+        },
+        "Evlilik Oranı": {
+            "Evli": 10.5,
+            "Bekar": 39.46,
+            "Boşanmış": 34.47,
+            "Eşi Ölmüş": 15.07
+        },
+        "Eğitim Düzeyi": {
+            "Bilinmiyor": 498,
+            "Okuryazar Değil": 413,
+            "Okuryazar": 872,
+            "İlkokul": 1072,
+            "Ortaokul": 1142,
+            "İlköğretim": 1024,
+            "Lise": 3.015,
+            "Lisans": 4.210,
+            "Yüksek Lisans": 891,
+            "Doktora": 252
+        },
+        "Eğitim Oranı": {
+            "Üniversite ve Üstü": 6.0,
+            "İlk, Orta, Lise": 46.0,
+            "Diğer": 47.0
+        }
+    },
+    "Eskişehir/Odunpazari": {
+        "YASLI/GENC ORANI": {
+            "Genc": 52.0,
+            "Orta": 29.0,
+            "Yasli": 19.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadin": 48.0,
+            "Erkek": 52.0
+        },
+        "YASA GORE NUFUS DAGILIMI": {
+            "0-4": 287,
+            "5-9": 442,
+            "10-14": 391,
+            "15-19": 527,
+            "20-24": 598,
+            "25-29": 488,
+            "30-34": 490,
+            "35-39": 555,
+            "40-44": 537,
+            "45-49": 517,
+            "50-54": 477,
+            "55-59": 485,
+            "60-64": 632,
+            "65+": 852
+        },
+        "MEDENI HAL": {
+            "Evli": 3164,
+            "Bekar": 1238,
+            "Bosanmis": 310,
+            "Eşi Ölmüş": 368
+        },
+        "EVLILIK ORANI": {
+            "Evli": 20.36,
+            "Bekar": 52.0,
+            "Bosanmis": 5.0,
+            "Eşi Ölmüş": 22.64
+        },
+        "EĞITIM DÜZEYI": {
+            "Bilinmiyor": 75,
+            "Okuryazar Değil": 82,
+            "Okuryazar": 212,
+            "İlkokul": 505,
+            "Ortaokul": 309,
+            "İlköğretim": 300,
+            "Lise": 1178,
+            "Lisans": 1235,
+            "Yüksek Lisans": 112,
+            "Doktora": 18
+        },
+        "EĞITIM ORANI": {
+            "Üniversite ve Üstü": 9.0,
+            "İlk, Orta, Lise": 23.0,
+            "Diğer": 69.0
+        }
+    },
+    "Istanbul/Esenyurt": {
+        "yasli_genç_orani": {
+            "genç": 96.0,
+            "orta": 94.5,
+            "yaşlı": 94.9
+        },
+        "kadın_erkek_orani": {
+            "kadın": 95.1,
+            "erkek": 94.9
+        },
+        "yaşa_göre_nüfus_dağılımı": {
+            "0-4": 2853.0,
+            "5-9": 3176.0,
+            "10-14": 3197.0,
+            "15-19": 2259.0,
+            "20-24": 2307.0,
+            "25-29": 2865.0,
+            "30-34": 2839.0,
+            "35-39": 2639.0,
+            "40-44": 2403.0,
+            "45-49": 2640.0,
+            "50-54": 1696.0,
+            "55-59": 1098.0,
+            "60-64": 689.0,
+            "65+": 1195.0
+        },
+        "medeni_hal": {
+            "evli": 14464.0,
+            "bekar": 3617.0,
+            "boşanmış": 818.0,
+            "eşi_ölmüş": 286.0
+        },
+        "evlilik_orani": {
+            "evli": 92.2,
+            "bekar": 94.5,
+            "boşanmış": 0.1,
+            "eşi_ölmüş": 0.1
+        },
+        "eğitim_düzeyi": {
+            "bilmiyor": 327.0,
+            "okuryazar_değil": 158.0,
+            "okur_yazar_ama_çocuklukta_eğitimsiz": 3157.0,
+            "ilkokul": 6577.0,
+            "ortaokul": 5055.0,
+            "ilköğretim": 2606.0,
+            "lise": 5641.0,
+            "lisans": 2287.0,
+            "yüksek_lisans": 1841.0
+        },
+        "eğitim_orani": {
+            "üniversite_ve_üstü": 15.0,
+            "ilk_orta_lise": 61.0,
+            "diğer": 75.0
+        }
+    },
+    "Giresun/Bulancak": {
+        "YASLI/GENC ORANI": {
+            "Genç": 49.0,
+            "Orta": 20.0,
+            "Yaşlı": 31.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadın": 49.0,
+            "Erkek": 51.0
+        },
+        "YASA GÖRE NÜFÜS DAĞILIMI": {
+            "0-4": 283,
+            "5-9": 325,
+            "10-14": 341,
+            "15-19": 541,
+            "20-24": 372,
+            "25-29": 390,
+            "30-34": 465,
+            "35-39": 358,
+            "40-44": 312,
+            "45-49": 381,
+            "50-54": 727,
+            "55-59": "N/A",
+            "60-64": "N/A",
+            "65+": 727
+        },
+        "MEDENI HAL": {
+            "Evli": 2678,
+            "Bekar": 1081,
+            "Boşanmış": 453,
+            "Eşi Ölmüş": 672
+        },
+        "EVLILIK ORANI": {
+            "Evli": 67.12,
+            "Bekar": 20.68,
+            "Boşanmış": 9.31,
+            "Eşi Ölmüş": "N/A"
+        },
+        "EĞITIM DÜZEYI": {
+            "Bilmiyor": 35,
+            "Okuryazar Değil": 65,
+            "Okuryazar Eğitimsiz": 545,
+            "İlkokul": 1022,
+            "Ortaokul": 683,
+            "İlköğretim": 891,
+            "Lise": 1245,
+            "Lisans": 993,
+            "Yüksek Lisans": 95
+        },
+        "EĞITIM ORANI": {
+            "Üniversite ve Üstü": 13.0,
+            "İlk, Orta, Lise": 15.0,
+            "Diğer": 72.0
+        }
+    },
+    "Ankara/Altindağ": {
+        "YASLI/GENC ORANI": {
+            "Genc": 30.0,
+            "Orta": "",
+            "Yasli": 66.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadin": 33.0,
+            "Erkek": 67.0
+        },
+        "YASA GORE NUFUS DAGILIMI": {
+            "0-4": 273,
+            "5-9": 398,
+            "10-14": 1108,
+            "15-19": 3154,
+            "20-24": 1108,
+            "25-29": 382,
+            "30-34": 267,
+            "35-39": 211,
+            "40-44": 223,
+            "45-49": 189,
+            "50-54": 147,
+            "55-59": 208,
+            "60-64": "",
+            "65+": ""
+        },
+        "MEDENI HAL": {
+            "Evli": 4014,
+            "Bekar": 6324,
+            "Bosanmis": 708,
+            "Eşi Ölmüş": 86
+        },
+        "EVLILIK ORANI": {
+            "Evli": 8.4,
+            "Bekar": 12.03,
+            "Bosanmis": "",
+            "Eşi Ölmüş": 67.33
+        },
+        "EĞITIM DÜZEYI": {
+            "Bilinmiyor": 159,
+            "Okuryazar Değil": 413,
+            "Okuryazar Eğitimsiz": 648,
+            "İlkokul": 648,
+            "Ortaokul": "",
+            "İlköğretim": 260,
+            "Lise": 900,
+            "Lisans": 167,
+            "Yüksek Lisans": ""
+        },
+        "EĞITIM ORANI": {
+            "Üniversite ve Üstü": 9.0,
+            "İlk, Orta, Lise": 17.0,
+            "Diğer": 74.0
+        }
+    },
+    "Gaziantep/Şehitkamil": {
+        "YASLI/GENC ORANI": {
+            "Genc": 945.0,
+            "Orta": 649.0,
+            "Yasli": 96.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadin": 50.0,
+            "Erkek": 50.0
+        },
+        "YASA GÖRE NÜFÜS DAĞILIMI": {
+            "0-4": 1216,
+            "5-9": 1200,
+            "10-14": 1290,
+            "15-19": 1468,
+            "20-24": 1122,
+            "25-29": 1081,
+            "30-34": 1085,
+            "35-39": 1143,
+            "40-44": 1119,
+            "45-49": 977,
+            "50-54": 682,
+            "55-59": 538,
+            "60-64": 500,
+            "65+": 510
+        },
+        "MEDENI HAL": {
+            "Evli": 6418,
+            "Bekar": 2090,
+            "Bosanmis": 293,
+            "Esj Ölmüs": 298
+        },
+        "EVLILIK ORANI": {
+            "Evli": 20.86,
+            "Bekar": 44.49,
+            "Bosanmis": null,
+            "Esj Ölmüs": null
+        },
+        "EĞITIM DÜZEYI": {
+            "Bilmiyor": null,
+            "Okuryazar Degil": 187,
+            "Okuryazar": 65,
+            "Ilkokul": 2383,
+            "Ortaokul": 2457,
+            "Lise": 1414,
+            "Lisans": 2159,
+            "Yüksek Lisans": 193
+        },
+        "EĞITIM ORANI": {
+            "Üniversite ve Üstü": 15.0,
+            "Ilk, Orta, Lise": 14.0,
+            "Diger": 72.0
+        }
+    },
+    "Istanbul/Güngören": {
+        "YASLI/GENC ORANI": {
+            "Genc": 55.0,
+            "Orta": 28.0,
+            "Yasli": 17.0
+        },
+        "KADIN/ERKEK ORANI": {
+            "Kadin": 50.0,
+            "Erkek": 50.0
+        },
+        "YASA GORE NUFUS DAGILIMI": {
+            "0-4": 837,
+            "5-9": 835,
+            "10-14": 816,
+            "15-19": 951,
+            "20-24": 1485,
+            "25-29": 1357,
+            "30-34": 1192,
+            "35-39": 1244,
+            "40-44": 1185,
+            "45-49": 1015,
+            "50-54": 903,
+            "55-59": 818,
+            "60-64": 1188,
+            "65+": 1808
+        },
+        "MEDENI HAL": {
+            "Evli": 7524,
+            "Bekar": 4222,
+            "Bosanmis": 657,
+            "Eşi Ölmüş": 503
+        },
+        "EVLILIK ORANI": {
+            "Evli": 27.94,
+            "Bekar": 46.45,
+            "Bosanmis": 14.61,
+            "Eşi Ölmüş": 11.00
+        },
+        "EĞITIM DÜZEYI": {
+            "Bilmiyor": 217,
+            "Okuryazar Değil": 357,
+            "Okuryazar": 565,
+            "İlkokul": 2868,
+            "Ortaokul": 2170,
+            "İlkoğretim": 728,
+            "Lise": 935,
+            "Lisans": 2375,
+            "Yüksek Lisans": 828,
+            "Doktora": 17
+        },
+        "EĞITIM ORANI": {
+            "Üniversite ve Üstü": 10.0,
+            "İlk, Orta, Lise": 21.0,
+            "Diğer": 70.0
+        }
+    }
+}
